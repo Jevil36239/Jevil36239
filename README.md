@@ -2,7 +2,12 @@
 
 
 
-
+## Motive
+```
+- I make just because of Boredom
+- There are no idiotic stupid people, Just different ways of brain thinking
+- lu setan tq :v
+```
 
 
 
