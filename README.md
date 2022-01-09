@@ -1,46 +1,56 @@
-# <img src="https://c.tenor.com/cXamJgWVseUAAAAj/pepe-the-frog-helicopter.gif" width="36" height="30"/> Hello,I'm Jevil
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center">i’m Jevil.
+I’m an boredom and confusion in this field
+</p>
+<h1 align="center"> -: Stats :- </h1>
 
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jevil36239&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevil36239&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+</p>
 
+<h1 align="center"> -: Contributions :- </h1>
+<p align="center">
+  <a href="#">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Jevil36239&theme=radical">
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Jevil36239&theme=react-dark&hide_border=true">
+  </a>
+</p>
 
-## Motive
-```
-lmao wot I'm High right now :v
-```
-
-
-
-
-
-## My Github Stats
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jevil36239&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevil36239&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-
+<h1 align="center">-: Certificates :- </h1>
 <div>
-    <img src="https://cultofthepartyparrot.com/guests/hd/trollparrot.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/G9va_GUNufAAAAAj/banana-dancing-happy-banana.gif" width="30" height="30"/>
-    <img src="https://31.media.tumblr.com/75beab408ae221ae3c6214a4f4ac3ccb/tumblr_nry24krdet1ubxo39o1_400.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/111/316/c57.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/FOgfl0x7RiUAAAAC/spamton-dancing.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/7pOOCGahTOUAAAAi/jevil-undertale.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/parrotpoop.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/_53LAbSQnpAAAAAj/thinking.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/Cnp6ZkkJz5AAAAAj/discord-discordgifemoji.gif" width="36" height="30"/>
-    <img src="https://c.tenor.com/IE7CpnZPj_wAAAAj/meme-nom-nom.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/nWr4wY4tZMUAAAAj/cute-bunny-girl-heart.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/rirRWt8D43wAAAAj/korone-dance-discord-emoji.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/wRypKzXj0GIAAAAj/blob-smiley.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/zqWg3rM-WCgAAAAj/shrek-mike-wazowski.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/E9ASKK1kkjkAAAAi/discord-discordgifemoji.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/9swGRuA4tNYAAAAM/sussy-the-rock.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/HmsrsOjByKEAAAAj/cat-bop-cute.gif" width="30" height="30"/>
-    <img src="https://c.tenor.com/r-q_8C22aYkAAAAj/troll-face-troll-scary.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="30" height="30"/>
-</div>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="36" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
+    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="36" height="30"/>
+    </div>
+<h1 align="center">-: Donation :- </h1>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/michyamrane" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-michyamrane-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
+  </a>
+</p>
+
+<h2 align="center"> 🧮 Counter: </h2>
+<p align="center">
+  <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=michyamrane.michyamrane&style=for-the-badge">
+<a>
+</p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jevil36239.README.md)
