@@ -23,33 +23,10 @@ I’m an boredom and confusion in this field
     <img src="https://activity-graph.herokuapp.com/graph?username=Jevil36239&theme=react-dark&hide_border=true">
   </a>
 </p>
-
-<h1 align="center">-: Certificates :- </h1>
-<div>
-    <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-    <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
-    </div>
-<h1 align="center">-: Donation :- </h1>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/michyamrane" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-michyamrane-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
-  </a>
-</p>
-
-<h2 align="center"> 🧮 Counter: </h2>
+<h2 align="center">-: Counter :- </h2>
 <p align="center">
   <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=michyamrane.michyamrane&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=jevil36239&style=for-the-badge">
 <a>
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jevil36239.README.md)
