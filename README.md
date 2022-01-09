@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hello there </h1>
 <p align="center">i’m Jevil.
 I’m an boredom and confusion in this field
 </p>
