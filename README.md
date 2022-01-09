@@ -26,18 +26,17 @@ I’m an boredom and confusion in this field
 
 <h1 align="center">-: Certificates :- </h1>
 <div>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="36" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="30" height="30"/>
-    <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="36" height="30"/>
+    <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+    <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
+  <img src="http://www.businessappraisal.com/wpimages/wp02ae7563.gif" width="30" height="30"/>
     </div>
 <h1 align="center">-: Donation :- </h1>
 <p align="center">
