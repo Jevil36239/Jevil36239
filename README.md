@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there </h1>
 <p align="center">i’m Jevil.
-I’m an boredom and confusion in this field
+I’m an boredom and confused in this field
 </p>
 <h1 align="center"> -: Stats :- </h1>
 
