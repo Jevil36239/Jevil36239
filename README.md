@@ -1,3 +1,7 @@
+ <img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/>
+ <img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
+<img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
+
 <h1 align="center"> Hello there </h1>
 <p align="center">i’m Jevil.
 I’m an boredom and confused in this field
@@ -12,6 +16,8 @@ I’m an boredom and confused in this field
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevil36239&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
 </p>
+
+
 
 <h1 align="center"> -: Contributions :- </h1>
 <p align="center">
@@ -28,6 +34,7 @@ I’m an boredom and confused in this field
   <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=jevil36239&style=for-the-badge">
 <a>
+  
   <a href="#" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 </p>
 
