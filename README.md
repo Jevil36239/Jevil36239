@@ -3,7 +3,7 @@
 <img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=23&duration=2000&pause=1000&color=F700E1&center=true&width=435&lines=Hello+Sir+%E2%98%A3;Lets+visit+my+repo+🍁">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=23&duration=2000&pause=1000&color=217397&center=true&width=435&lines=Greetings+%E2%98%A3;Jevil36239🍁+is+here">
 </a> 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
 <h1 align="center"> -: Stats :- </h1>
