@@ -6,8 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=23&duration=2000&pause=1000&color=217397&center=true&width=435&lines=Greetings+%E2%98%A3;Jevil36239🍁+is+here">
 </a> 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1400">
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1400">
+<br>
 <h1 align="center"> -: Stats :- </h1>
 
 <p align="center">
