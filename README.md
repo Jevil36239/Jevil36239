@@ -10,16 +10,7 @@
 <br>
 <h1 align="center"> -: Stats :- </h1>
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jevil36239&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevil36239&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
-  </a>
-</p>
-
-
+<img src="nanidafuq.svg">
 
 <h1 align="center"> -: Contributions :- </h1>
 <p align="center">
