@@ -15,12 +15,12 @@
 
 /* Body Styling */
 .body {
-  --color-main: #ff9b71;
-  --color-primary: #ff4444;
-  --color-secondary: #e8e677;
+  --color-main: #13ffa3;
+  --color-primary: #1f7f5a;
+  --color-secondary: #0affa0;
   --color-background: #0d1117;
-  --color-link: #fef29e;
-  --color-link-active: #ff4444;
+  --color-link: #9efeea;
+  --color-link-active: #44ffc5;
 
   height: 200px;
   width: 100%;
