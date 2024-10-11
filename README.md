@@ -10,7 +10,7 @@
 <br>
 <h1 align="center"> -: Stats :- </h1>
 
-<img src="nanidafuq.svg">
+<img src="banner.svg">
 
 <h1 align="center"> -: Contributions :- </h1>
 <p align="center">
