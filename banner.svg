@@ -17,7 +17,7 @@
 .body {
   --color-main: #13ffa3;
   --color-primary: #1f7f5a;
-  --color-secondary: #0affa0;
+  --color-secondary: #0afcff;
   --color-background: #0d1117;
   --color-link: #9efeea;
   --color-link-active: #44ffc5;
