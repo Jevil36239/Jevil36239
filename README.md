@@ -3,6 +3,8 @@
 >
 > "Do you accept the cost?"
 
+---
+
 
 <img src="https://raw.githubusercontent.com/Jevil36239/Jevil36239/main/ezgif.com-resize.jpg"/>
 <br>
