@@ -16,7 +16,7 @@
 /* Body Styling */
 .body {
   --color-main: #13ffa3;
-  --color-primary: #1f7f5a;
+  --color-primary: #18563e;
   --color-secondary: #0afcff;
   --color-background: #0d1117;
   --color-link: #9efeea;
