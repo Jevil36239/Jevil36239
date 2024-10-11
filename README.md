@@ -1,14 +1,11 @@
- <img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/>
- <img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
-<img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
+> [!WARNING]  
+> Every gift alters the balance of the world. To give is to part with a piece of yourself, an exchange that always comes with a price. Remember, nothing is gained without something lost.
+>
+> "Do you accept the cost?"
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=23&duration=2000&pause=1000&color=217397&center=true&width=435&lines=Greetings+%E2%98%A3;Jevil36239🍁+is+here">
-</a>
+
 <img src="https://raw.githubusercontent.com/Jevil36239/Jevil36239/main/ezgif.com-resize.jpg"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1400">
 <br>
-<h1 align="center"> -: Stats :- </h1>
 
 <img src="banners.svg">
 
