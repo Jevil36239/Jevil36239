@@ -18,6 +18,7 @@
 📜 About Me:
  -  3 years of self-taught experience in the field of penetration testing.
  -  The journey began at 14, I inspired to create small projects.
+ -  Returned to the field after stepping away due to a brief hiatus.
 
 
 ```
