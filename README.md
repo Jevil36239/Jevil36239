@@ -10,7 +10,10 @@
 
 <img src="banners.svg">
 
-<h1 align="center"> -: Contributions :- </h1>
+<h1>Contributions</h1>
+<p>
+
+</p>
 <p align="center">
   <a href="#">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Jevil36239&theme=radical">
