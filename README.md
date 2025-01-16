@@ -1,5 +1,6 @@
 > [!WARNING]  
-> To give is to change. Every choice leaves a mark.  
+> To give is to change. Every choice leaves a mark.
+> 
 > "Do you accept this truth?"  
 
 ---
