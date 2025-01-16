@@ -25,7 +25,9 @@
 </p>
 <p align="center">
   <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Jevil36239&theme=radical">
+<br>
+  <br>
+  <br>
   </a>
   <br>
   <img src="https://github.com/Jevil36239/Jevil36239/blob/main/95597c854bac2ca94c63442bd7cd7b07-ezgif.com-resize.jpg"/>
