@@ -10,7 +10,7 @@
 
 <img src="banners.svg">
 
-<h1>Contributions:></h1>
+<h1>Contributions :></h1>
 <p>
 
 </p>
