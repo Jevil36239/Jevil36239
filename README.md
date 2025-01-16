@@ -1,7 +1,7 @@
 > [!WARNING]  
-> Every gift alters the balance of the world. To give is to part with a piece of yourself, an exchange that always comes with a price. Remember, nothing is gained without something lost.
->
-> "Do you accept the cost?"
+> To give is to change. Every choice leaves a mark.  
+>  
+> "Do you accept this truth?"  
 
 ---
 
