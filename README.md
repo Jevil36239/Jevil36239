@@ -22,6 +22,7 @@
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=Jevil36239&theme=react-dark&hide_border=true">
   </a>
+  <img src="https://github.com/Jevil36239/Jevil36239/blob/main/95597c854bac2ca94c63442bd7cd7b07-ezgif.com-resize.jpg"/>
 </p>
 <h2 align="center">-: Counter :- </h2>
 <p align="center">
