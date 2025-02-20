@@ -5,7 +5,7 @@
 ---
 
 <img src="bannersvg/Bottom_up.svg" width="100%">
-<img src="ezgif.com-resize.jpg"/>
+<img src="afterglow_by_t1na_df17o5i-fullview%20(1)%20(1).jpg"/>
 <br>
 
 <img src="banners.svg">
