@@ -4,8 +4,8 @@
 > "Do you accept this truth?"  
 ---
 
-<img src="https://github.com/Jevil36239/Jevil36239/blob/main/bannersvg/Bottom_up.svg" width="100%">
-<img src="https://raw.githubusercontent.com/Jevil36239/Jevil36239/main/ezgif.com-resize.jpg"/>
+<img src="bannersvg/Bottom_up.svg" width="100%">
+<img src="ezgif.com-resize.jpg"/>
 <br>
 
 <img src="banners.svg">
@@ -30,7 +30,7 @@
   <br>
   </a>
   <br>
-  <img src="https://github.com/Jevil36239/Jevil36239/blob/main/95597c854bac2ca94c63442bd7cd7b07-ezgif.com-resize.jpg"/>
+  <img src="95597c854bac2ca94c63442bd7cd7b07-ezgif.com-resize.jpg"/>
 </p>
 
 
