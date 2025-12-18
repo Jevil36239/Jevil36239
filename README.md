@@ -5,21 +5,20 @@
 ---
 
 <img src="banners.svg">
-<img src="bannersvg/status.svg">
+<p align="center">
+  <img src="bannersvg/loca.svg" height="40">
+  &nbsp; 
+  <img src="bannersvg/status.svg" height="40">
+</p>
 <br>
 
 <p>
   
 `CONTRIBUTION :>`
-  
-```text
-📜 About Me:
- •  3 years of self-taught experience in the field of penetration testing.
- •  The journey began at 14, I inspired to create small projects.
- •  Returned to the field after stepping away due to a brief hiatus.
 
 
-```
+<img src="bannersvg/about_scroll.svg">
+
 </p>
 <p align="center">
   <a href="#">
