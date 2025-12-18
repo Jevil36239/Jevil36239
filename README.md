@@ -5,7 +5,7 @@
 ---
 
 <img src="banners.svg">
-<img src="bannersvg/tes.svg">
+<img src="bannersvg/status.svg">
 <br>
 
 <p>
