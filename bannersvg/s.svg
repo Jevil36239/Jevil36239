@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="140">
+  <defs>
+    <style>
+      /* Font Retro Monospace */
+      .text { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #c9d1d9; } /* Sedikit mengecilkan font agar muat */
+      .header { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #e8bd4b; }
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8; }
+      .bullet { font-weight: bold; }
+      .highlight { fill: #fff; font-weight: bold; }
+      
+      /* Efek Scanlines */
+      .scanlines { fill: url(#scanline-pattern); opacity: 0.1; pointer-events: none; }
+      
+      /* Animasi Flicker */
+      @keyframes flicker {
+        0% { opacity: 0.95; } 50% { opacity: 1; } 100% { opacity: 0.95; }
+      }
+      .monitor-glow { animation: flicker 4s infinite; }
+    </style>
+    
+    <pattern id="scanline-pattern" x="0" y="0" width="10" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="10" height="2" fill="#000" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="498" height="138" x="1" y="1" class="bg" />
+  
+  <g class="monitor-glow">
+  
+    <text x="20" y="30" class="header">📜 QUEST_LOG: CHARACTER_STATS</text>
+    <line x1="20" y1="40" x2="480" y2="40" stroke="#30363d" stroke-width="1" />
+
+    <line x1="250" y1="45" x2="250" y2="125" stroke="#30363d" stroke-width="1" />
+
+    <g id="left-column">
+        <text x="20" y="65" class="text">
+          <tspan class="bullet">🍀</tspan> Class: <tspan class="highlight">Pentester</tspan> (3 Yrs)
+        </text>
+        <text x="20" y="90" class="text">
+          <tspan class="bullet">🍀</tspan> Origin: Lvl 14 (Self-Taught)
+        </text>
+        <text x="20" y="115" class="text">
+          <tspan class="bullet">🍀</tspan> Status: <tspan class="highlight" fill="#e8bd4b">Online</tspan> (Returned)
+        </text>
+    </g>
+
+    <g id="right-column">
+        <text x="270" y="65" class="text">
+          <tspan class="bullet">⚔️</tspan> Skills: Network, Web, <tspan class="highlight">Cloud</tspan>
+        </text>
+        <text x="270" y="90" class="text">
+          <tspan class="bullet">🛡️</tspan> Tools: Nmap, <tspan class="highlight">Burp Suite</tspan>
+        </text>
+        <text x="270" y="115" class="text">
+          <tspan class="bullet">🎯</tspan> Quest: Bug Bounty Hunting
+        </text>
+    </g>
+    
+  </g>
+
+  <rect width="498" height="138" x="1" y="1" class="scanlines" />
+  
+</svg>
