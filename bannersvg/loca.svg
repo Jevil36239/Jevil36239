@@ -25,5 +25,7 @@
   <g class="hand-anim">
      <line x1="20" y1="20" x2="20" y2="14" class="clock-hand" />
   </g>
-  <circle cx="20" cy="20" r="1.5" fill="#64b0ff"/> <text x="38" y="24" class="text">Working on Project</text>
+  <circle cx="20" cy="20" r="1.5" fill="#64b0ff"/> 
+  
+  <text x="38" y="24" class="text">Working on Project</text>
 </svg>
