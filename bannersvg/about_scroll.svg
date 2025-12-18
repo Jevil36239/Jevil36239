@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="140">
+  <defs>
+    <style>
+      /* Font Retro Monospace */
+      .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #c9d1d9; }
+      .header { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #e8bd4b; } /* Warna Emas Kertas */
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8; }
+      .bullet { fill: #2ea043; font-weight: bold; } /* Bullet Hijau */
+      .highlight { fill: #fff; font-weight: bold; }
+      
+      /* Efek Scanlines (Garis TV Jadul) */
+      .scanlines { fill: url(#scanline-pattern); opacity: 0.1; pointer-events: none; }
+      
+      /* Animasi Slight Flicker (Kedip Halus ala Monitor Tua) */
+      @keyframes flicker {
+        0% { opacity: 0.95; }
+        50% { opacity: 1; }
+        100% { opacity: 0.95; }
+      }
+      .monitor-glow { animation: flicker 4s infinite; }
+    </style>
+    
+    <pattern id="scanline-pattern" x="0" y="0" width="10" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="10" height="2" fill="#000" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="498" height="138" x="1" y="1" class="bg" />
+  
+  <g class="monitor-glow">
+  
+    <text x="20" y="30" class="header">📜 QUEST_LOG: CHARACTER_HISTORY</text>
+    <line x1="20" y1="40" x2="480" y2="40" stroke="#30363d" stroke-width="1" />
+
+    <text x="20" y="65" class="text">
+      <tspan class="bullet">></tspan> Class: <tspan class="highlight">Penetration Tester</tspan> (3 Years EXP)
+    </text>
+    
+    <text x="20" y="90" class="text">
+      <tspan class="bullet">></tspan> Origin: Started journey at <tspan class="highlight">Lvl 14</tspan> (Self-Taught)
+    </text>
+    
+    <text x="20" y="115" class="text">
+      <tspan class="bullet">></tspan> Status: <tspan class="highlight" fill="#e8bd4b">Returned from Hiatus</tspan> [Online]
+    </text>
+    
+  </g>
+
+  <rect width="498" height="138" x="1" y="1" class="scanlines" />
+  
+</svg>
