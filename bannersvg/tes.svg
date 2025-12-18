@@ -1,84 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
   <defs>
-    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#87CEEB"/> <stop offset="100%" stop-color="#AEEEEE"/> </linearGradient>
+    <solidColor id="skyBlue" solid-color="#87CEEB"/>
     <solidColor id="cloudWhite" solid-color="#FFFFFF"/>
     <solidColor id="cloudShadow" solid-color="#B0CCE0"/>
 
-    <g id="cloud1">
-      <path fill="url(#cloudShadow)" d="M20,60 h60 v10 h20 v-10 h20 v10 h20 v-20 h10 v-20 h-10 v-10 h-20 v10 h-20 v-10 h-30 v10 h-20 v10 h-20 v10 h-10 v10 Z M40,40 h10 v10 h-10 Z M70,30 h10 v10 h-10 Z M110,40 h10 v10 h-10 Z" transform="translate(5,5)"/>
-      <path fill="url(#cloudWhite)" d="M20,50 h10 v-10 h20 v-10 h30 v10 h20 v-10 h20 v10 h10 v20 h-10 v10 h-20 v-10 h-20 v10 h-20 v-10 h-20 v10 h-20 v-10 Z M50,40 h10 v10 h-10 Z M80,30 h10 v10 h-10 Z M120,40 h10 v10 h-10 Z"/>
+    <g id="pixelCloud1">
+        <path fill="url(#cloudShadow)" transform="translate(5,5)"
+        d="M30,60 h20 v-10 h10 v-10 h20 v10 h10 v-10 h10 v10 h10 v-20 h10 v-20 h-10 v-10 h-20 v10 h-20 v-10 h-30 v10 h-20 v10 h-20 v10 h-10 v10 h10 v10 Z M60,40 h10 v10 h-10 Z M90,30 h10 v10 h-10 Z M120,40 h10 v10 h-10 Z"/>
+        <path fill="url(#cloudWhite)" 
+        d="M30,60 h20 v-10 h10 v-10 h20 v10 h10 v-10 h10 v10 h10 v-20 h10 v-20 h-10 v-10 h-20 v10 h-20 v-10 h-30 v10 h-20 v10 h-20 v10 h-10 v10 h10 v10 Z M60,40 h10 v10 h-10 Z M90,30 h10 v10 h-10 Z M120,40 h10 v10 h-10 Z"/>
     </g>
 
-    <g id="cloud2">
-      <path fill="url(#cloudShadow)" d="M10,40 h80 v10 h20 v-10 h10 v-20 h-10 v-10 h-30 v10 h-20 v-10 h-40 v10 h-10 v30 Z M30,30 h10 v10 h-10 Z M80,20 h10 v10 h-10 Z" transform="translate(5,5)"/>
-      <path fill="url(#cloudWhite)" d="M10,30 h10 v-10 h40 v10 h20 v-10 h30 v10 h10 v20 h-10 v10 h-20 v-10 h-80 v-10 Z M40,30 h10 v10 h-10 Z M90,20 h10 v10 h-10 Z"/>
+    <g id="pixelCloud2">
+        <path fill="url(#cloudShadow)" transform="translate(5,5)"
+        d="M10,40 h20 v-10 h10 v10 h20 v-10 h20 v10 h10 v-20 h-10 v-10 h-20 v10 h-20 v-10 h-30 v10 h-10 v10 Z M40,30 h10 v10 h-10 Z M70,30 h10 v10 h-10 Z"/>
+        <path fill="url(#cloudWhite)" 
+        d="M10,40 h20 v-10 h10 v10 h20 v-10 h20 v10 h10 v-20 h-10 v-10 h-20 v10 h-20 v-10 h-30 v10 h-10 v10 Z M40,30 h10 v10 h-10 Z M70,30 h10 v10 h-10 Z"/>
     </g>
 
-    <g id="cloud3">
-       <path fill="url(#cloudShadow)" d="M10,30 h40 v10 h10 v-10 h10 v-20 h-10 v-10 h-30 v10 h-10 v-10 h-10 v30 Z M30,20 h10 v10 h-10 Z" transform="translate(4,4)"/>
-       <path fill="url(#cloudWhite)" d="M10,20 h10 v-10 h10 v10 h30 v10 h10 v20 h-10 v10 h-10 v-10 h-40 v-10 Z M40,20 h10 v10 h-10 Z"/>
+    <g id="pixelCloud3">
+        <path fill="url(#cloudShadow)" transform="translate(5,5)"
+        d="M20,30 h10 v-10 h10 v10 h20 v-10 h10 v-10 h-10 v-10 h-20 v10 h-10 v10 h-20 v10 h10 v10 Z M50,20 h10 v10 h-10 Z"/>
+        <path fill="url(#cloudWhite)" 
+        d="M20,30 h10 v-10 h10 v10 h20 v-10 h10 v-10 h-10 v-10 h-20 v10 h-10 v10 h-20 v10 h10 v10 Z M50,20 h10 v10 h-10 Z"/>
     </g>
-
-    <style>
-      /* Animasi menggeser dari 0 ke -800px (lebar viewBox) */
-      @keyframes moveLeft {
-        from { transform: translateX(0); }
-        to { transform: translateX(-800px); }
-      }
-      
-      /* Layer Belakang (Lambat) */
-      .layer-back {
-        animation: moveLeft 80s linear infinite;
-      }
-      /* Layer Tengah (Sedang) */
-      .layer-mid {
-        animation: moveLeft 40s linear infinite;
-      }
-      /* Layer Depan (Cepat) */
-      .layer-front {
-        animation: moveLeft 20s linear infinite;
-      }
-    </style>
   </defs>
 
-  <rect width="100%" height="100%" fill="url(#skyGradient)"/>
+  <rect width="100%" height="100%" fill="url(#skyBlue)"/>
 
-  <g class="layer-back" opacity="0.6">
-    <g>
-        <use href="#cloud3" x="50" y="20"/> <use href="#cloud2" x="250" y="40" transform="scale(0.8)"/>
-        <use href="#cloud3" x="450" y="10"/> <use href="#cloud1" x="600" y="30" transform="scale(0.7)"/>
-    </g>
-    <g transform="translate(800, 0)">
-        <use href="#cloud3" x="50" y="20"/> <use href="#cloud2" x="250" y="40" transform="scale(0.8)"/>
-        <use href="#cloud3" x="450" y="10"/> <use href="#cloud1" x="600" y="30" transform="scale(0.7)"/>
-    </g>
-  </g>
-
-   <g class="layer-mid" opacity="0.85">
-    <g>
-        <use href="#cloud2" x="-100" y="80"/> <use href="#cloud1" x="180" y="60" transform="scale(0.9)"/>
-        <use href="#cloud3" x="380" y="100"/> <use href="#cloud2" x="550" y="70"/>
-        <use href="#cloud3" x="750" y="90"/>
-    </g>
-    <g transform="translate(800, 0)">
-        <use href="#cloud2" x="-100" y="80"/> <use href="#cloud1" x="180" y="60" transform="scale(0.9)"/>
-        <use href="#cloud3" x="380" y="100"/> <use href="#cloud2" x="550" y="70"/>
-        <use href="#cloud3" x="750" y="90"/>
-    </g>
-  </g>
-
-  <g class="layer-front">
-    <g>
-      <use href="#cloud1" x="30" y="130"/>
-      <use href="#cloud2" x="300" y="150"/>
-      <use href="#cloud1" x="580" y="120"/>
-    </g>
-    <g transform="translate(800, 0)">
-      <use href="#cloud1" x="30" y="130"/>
-      <use href="#cloud2" x="300" y="150"/>
-      <use href="#cloud1" x="580" y="120"/>
-    </g>
-  </g>
+  <use href="#pixelCloud1" x="250" y="80" transform="scale(1.2)"/>
+  
+  <use href="#pixelCloud2" x="-30" y="20"/>
+  
+  <use href="#pixelCloud2" x="650" y="10"/>
+  
+  <use href="#pixelCloud3" x="10" y="180"/>
+  <use href="#pixelCloud3" x="150" y="200" transform="scale(0.8)"/>
+  
+  <use href="#pixelCloud1" x="600" y="150" transform="scale(0.9)"/>
 
 </svg>
