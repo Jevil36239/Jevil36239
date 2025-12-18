@@ -28,7 +28,7 @@
   
   <g class="monitor-glow">
   
-    <text x="30" y="30" class="header">📜 QUEST_LOG: USER_PROFILE_EXTENDED</text>
+    <text x="30" y="30" class="header">📜 QUEST_LOG: USER_PROFILE</text>
     
     <line x1="30" y1="40" x2="850" y2="40" stroke="#30363d" stroke-width="1" />
 
