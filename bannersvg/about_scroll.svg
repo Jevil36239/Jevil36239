@@ -48,13 +48,10 @@
 
     <g id="right-col">
         <text x="430" y="65" class="text">
-          <tspan class="bullet">⚔️</tspan> Focus : <tspan class="highlight">Web Sec &amp; Network Analysis</tspan>
+          <tspan class="bullet">🍎</tspan> Focus : <tspan class="highlight">Kernel of Tree &amp; Life and Choices</tspan>
         </text>
         <text x="430" y="90" class="text">
-          <tspan class="bullet">🛡️</tspan> Tools : Burp Suite, Nmap, Python
-        </text>
-        <text x="430" y="115" class="text">
-          <tspan class="bullet">⚡</tspan> Status: <tspan class="highlight" fill="#e8bd4b">Working on Project</tspan>
+          <tspan class="bullet">🍎</tspan> Tools : Brain and Pray
         </text>
     </g>
     
