@@ -1,21 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130">
   <defs>
     <style>
       /* Font Retro Monospace */
       .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #c9d1d9; }
-      .header { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #e8bd4b; } /* Warna Emas Kertas */
+      .header { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #e8bd4b; letter-spacing: 1px; }
       .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8; }
-      .bullet { fill: #2ea043; font-weight: bold; } /* Bullet Hijau */
+      .bullet { font-weight: bold; }
       .highlight { fill: #fff; font-weight: bold; }
+      .dim { fill: #8b949e; font-size: 12px; }
       
-      /* Efek Scanlines (Garis TV Jadul) */
+      /* Efek Scanlines */
       .scanlines { fill: url(#scanline-pattern); opacity: 0.1; pointer-events: none; }
       
-      /* Animasi Slight Flicker (Kedip Halus ala Monitor Tua) */
+      /* Animasi Flicker */
       @keyframes flicker {
-        0% { opacity: 0.95; }
-        50% { opacity: 1; }
-        100% { opacity: 0.95; }
+        0% { opacity: 0.95; } 50% { opacity: 1; } 100% { opacity: 0.95; }
       }
       .monitor-glow { animation: flicker 4s infinite; }
     </style>
@@ -25,27 +24,42 @@
     </pattern>
   </defs>
 
-  <rect width="498" height="138" x="1" y="1" class="bg" />
+  <rect width="798" height="128" x="1" y="1" class="bg" />
   
   <g class="monitor-glow">
   
-    <text x="20" y="30" class="header">📜 QUEST_LOG: CHARACTER_HISTORY</text>
-    <line x1="20" y1="40" x2="480" y2="40" stroke="#30363d" stroke-width="1" />
+    <text x="30" y="30" class="header">📜 QUEST_LOG: USER_PROFILE_EXTENDED</text>
+    
+    <line x1="30" y1="40" x2="770" y2="40" stroke="#30363d" stroke-width="1" />
 
-    <text x="20" y="65" class="text">
-      <tspan class="bullet">🍀</tspan> Class: <tspan class="highlight">Penetration Tester</tspan> (3 Years EXP)
-    </text>
-    
-    <text x="20" y="90" class="text">
-      <tspan class="bullet">🍀</tspan> Origin: Started journey at <tspan class="highlight">Lvl 14</tspan> (Self-Taught)
-    </text>
-    
-    <text x="20" y="115" class="text">
-      <tspan class="bullet">🍀</tspan> Status: <tspan class="highlight" fill="#e8bd4b">Returned from Hiatus</tspan> [Online]
-    </text>
+    <line x1="400" y1="40" x2="400" y2="120" stroke="#30363d" stroke-width="1" stroke-dasharray="4 2"/>
+
+    <g id="left-col">
+        <text x="30" y="65" class="text">
+          <tspan class="bullet">🍀</tspan> Class : <tspan class="highlight">Penetration Tester</tspan>
+        </text>
+        <text x="30" y="90" class="text">
+          <tspan class="bullet">🍀</tspan> Exp   : 3 Years (Self-Taught)
+        </text>
+        <text x="30" y="115" class="text">
+          <tspan class="bullet">🍀</tspan> Origin: Started Lvl 14 <tspan class="dim">// Hiatus: Ended</tspan>
+        </text>
+    </g>
+
+    <g id="right-col">
+        <text x="430" y="65" class="text">
+          <tspan class="bullet">⚔️</tspan> Focus : <tspan class="highlight">Web Sec &amp; Network Analysis</tspan>
+        </text>
+        <text x="430" y="90" class="text">
+          <tspan class="bullet">🛡️</tspan> Tools : Burp Suite, Nmap, Python
+        </text>
+        <text x="430" y="115" class="text">
+          <tspan class="bullet">⚡</tspan> Status: <tspan class="highlight" fill="#e8bd4b">Working on Project</tspan>
+        </text>
+    </g>
     
   </g>
 
-  <rect width="498" height="138" x="1" y="1" class="scanlines" />
+  <rect width="798" height="128" x="1" y="1" class="scanlines" />
   
 </svg>
